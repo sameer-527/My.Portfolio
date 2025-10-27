@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pixel Space - Portfolio Website
 
 A modern, responsive portfolio website built with React, TypeScript, and Supabase. Features a clean design with contact form functionality and email notifications.
@@ -259,4 +260,7 @@ If you have any questions or need help, feel free to:
 
 
 
+=======
+# My.Portfolio
+>>>>>>> 76e6477e081d9001a5cf3d1d3c89a8a964ebd26c
 
